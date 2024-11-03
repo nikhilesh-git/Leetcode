@@ -116,14 +116,14 @@ LeetCodeV1.prototype.getNotesIfAny = function () {
 
   let notes = '';
   if (
-    checkElem(document.getElementsByClassName('notewrap__eHkN')) &&
+    checkElem(document.getElementsByClassName('EasyMDEContainer')) &&
     checkElem(
-      document.getElementsByClassName('notewrap__eHkN')[0].getElementsByClassName('CodeMirror-code')
+      document.getElementsByClassName('notewrap__eHkN')[0].getElementsByClassName('CodeMirror')
     )
   ) {
     let notesdiv = document
-      .getElementsByClassName('notewrap__eHkN')[0]
-      .getElementsByClassName('CodeMirror-code')[0];
+      .getElementsByClassName('EasyMDEContainer')[0]
+      .getElementsByClassName('CodeMirror')[0];
     if (notesdiv) {
       for (i = 0; i < notesdiv.childNodes.length; i++) {
         if (notesdiv.childNodes[i].childNodes.length == 0) continue;
