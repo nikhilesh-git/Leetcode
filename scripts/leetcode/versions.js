@@ -387,10 +387,9 @@ LeetCodeV2.prototype.getNotesIfAny = function () {
       document.getElementsByClassName('EasyMDEContainer')[0].getElementsByClassName('CodeMirror')
     )
   ) {
-    console.log("Adesh")
     let notesdiv = document
       .getElementsByClassName('EasyMDEContainer')[0]
-      .getElementsByClassName('CodeMirror')[0];
+      .getElementsByClassName('CodeMirror-code')[0];
     if (notesdiv) {
       for (let i = 0; i < notesdiv.childNodes.length; i++) {
         if (notesdiv.childNodes[i].childNodes.length == 0) continue;
