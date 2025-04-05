@@ -126,4 +126,12 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nikhilesh-git/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nikhilesh-git/Leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nikhilesh-git/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
