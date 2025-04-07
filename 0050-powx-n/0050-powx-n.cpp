@@ -1,25 +1,21 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-    if (n == 0) return 1;
-
-    // Handle negative exponent
-    long long N = n; // Use long long to handle INT_MIN
-    if (N < 0) {
-        x = 1 / x;
-        N = -N;
-    }
-
-    double result = 1;
-    while (N > 0) {
-        if (N % 2 == 1) {
-            result *= x;
+    long long nn=n;
+    if(nn<0) nn=-nn;
+    double ans=1.0;
+    while(nn){
+        if(nn%2==1){
+            ans*=x;
+            nn--;
         }
-        x *= x;
-        N /= 2;
+        else{
+            x=x*x;
+            nn/=2;
+        }
     }
-
-    return result;
+    if(n<0) return 1.0/ans;
+    else return ans;
 }
 
 };
