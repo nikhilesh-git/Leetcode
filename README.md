@@ -152,6 +152,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
