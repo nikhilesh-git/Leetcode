@@ -123,6 +123,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhilesh-git/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/nikhilesh-git/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nikhilesh-git/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilesh-git/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -174,6 +175,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhilesh-git/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/nikhilesh-git/Leetcode/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
