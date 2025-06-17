@@ -144,12 +144,14 @@ npm run lint-test     Test all code is linted properly
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/nikhilesh-git/Leetcode/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilesh-git/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1839-decode-xored-array](https://github.com/nikhilesh-git/Leetcode/tree/master/1839-decode-xored-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nikhilesh-git/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/nikhilesh-git/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/nikhilesh-git/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/nikhilesh-git/Leetcode/tree/master/0062-unique-paths) |
 | [0856-consecutive-numbers-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0856-consecutive-numbers-sum) |
