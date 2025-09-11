@@ -8,6 +8,7 @@ public:
                 count++;
                 sum=0;
             }
+            if(count>days) return false;
         }
         if(count<=days) return true;
         return false;
