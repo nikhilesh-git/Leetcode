@@ -10,8 +10,7 @@ public:
             }
             if(count>days) return false;
         }
-        if(count<=days) return true;
-        return false;
+        return true;
     }
     int shipWithinDays(vector<int>& weights, int days) {
         int low=*max_element(weights.begin(),weights.end()),high=INT_MAX;
