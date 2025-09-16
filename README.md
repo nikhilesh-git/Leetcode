@@ -166,6 +166,7 @@ npm run lint-test     Test all code is linted properly
 | [0050-powx-n](https://github.com/nikhilesh-git/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/nikhilesh-git/Leetcode/tree/master/0062-unique-paths) |
 | [0856-consecutive-numbers-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/nikhilesh-git/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -198,6 +199,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhilesh-git/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/nikhilesh-git/Leetcode/tree/master/0125-valid-palindrome) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/nikhilesh-git/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 ## Hash Table
 |  |
 | ------- |
