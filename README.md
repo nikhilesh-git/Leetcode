@@ -200,6 +200,7 @@ npm run lint-test     Test all code is linted properly
 | [0005-longest-palindromic-substring](https://github.com/nikhilesh-git/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/nikhilesh-git/Leetcode/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilesh-git/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0812-rotate-string](https://github.com/nikhilesh-git/Leetcode/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilesh-git/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/nikhilesh-git/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nikhilesh-git/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -274,4 +275,8 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilesh-git/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/nikhilesh-git/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
