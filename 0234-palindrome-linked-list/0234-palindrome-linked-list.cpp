@@ -10,33 +10,22 @@
  */
 class Solution {
 public:
-    bool isPalindrome(ListNode* head) {
-        ListNode * slow=head,*fast=head;
-        while(fast!=NULL && fast->next!=NULL){
-            slow=slow->next;
-            fast=fast->next->next;
+    bool func(ListNode* &ptr,ListNode*curr){
+        if(curr==NULL) return true;
+        if(!func(ptr,curr->next)){
+            return false;
         }
 
-        if(fast!=NULL && fast->next==NULL){
-            slow=slow->next;
-        }
-        fast=head;
         
-        ListNode* curr=slow,*prev=NULL,*next=slow;
-        while(next!=NULL){
-            next=curr->next;
-            curr->next=prev;
-            prev=curr;
-            curr=next;
+        if(curr->val==ptr->val) {
+            ptr=ptr->next;
+            return true;
         }
-        slow=prev;
-        while(slow!=NULL){
-            if(slow->val!=fast->val){
-                return false;
-            }
-            slow=slow->next;
-            fast=fast->next;
-        }
-        return true;
+
+        return false;
+    }
+    bool isPalindrome(ListNode* head) {
+        ListNode* ptr=head;
+        return func(ptr,head);
     }
 };
