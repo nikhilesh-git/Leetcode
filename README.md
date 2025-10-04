@@ -100,6 +100,7 @@ npm run lint-test     Test all code is linted properly
 | [0059-spiral-matrix-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/nikhilesh-git/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0120-triangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/nikhilesh-git/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/nikhilesh-git/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0213-house-robber-ii) |
@@ -188,6 +189,7 @@ npm run lint-test     Test all code is linted properly
 | [0062-unique-paths](https://github.com/nikhilesh-git/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/nikhilesh-git/Leetcode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/nikhilesh-git/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0410-split-array-largest-sum) |
