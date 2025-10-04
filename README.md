@@ -111,6 +111,7 @@ npm run lint-test     Test all code is linted properly
 | [0455-assign-cookies](https://github.com/nikhilesh-git/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nikhilesh-git/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
+| [0967-minimum-falling-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nikhilesh-git/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nikhilesh-git/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/nikhilesh-git/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -134,6 +135,7 @@ npm run lint-test     Test all code is linted properly
 | [0074-search-a-2d-matrix](https://github.com/nikhilesh-git/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
+| [0967-minimum-falling-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,6 +195,7 @@ npm run lint-test     Test all code is linted properly
 | [0198-house-robber](https://github.com/nikhilesh-git/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
 |  |
