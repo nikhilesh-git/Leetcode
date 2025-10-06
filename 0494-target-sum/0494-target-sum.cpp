@@ -7,28 +7,31 @@ int countPartitions(vector<int>& arr, int d) {
         
         if(sum-d<0 || (sum-d)%2==1) return 0;
         int target=(sum-d)/2;
-        vector<vector<int>> dp(n,vector<int>(target+1,0));
+        vector<int> prev(target+1,0),curr(target+1);
         
         
-        dp[0][0]=1;
+        prev[0]=1;
         
-        if (arr[0] <= target) dp[0][arr[0]]+= 1;
+        if (arr[0] <= target) prev[arr[0]]+= 1;
 
         for(int i=1;i<n;++i){
+
             for(int sum=0;sum<=target;++sum){
-                int notTake=dp[i-1][sum];
+                int notTake=prev[sum];
                 int take=0;
                 if(arr[i]<=sum){
-                    take=dp[i-1][sum-arr[i]];
+                    take=prev[sum-arr[i]];
                 }
-                dp[i][sum]=take+notTake;
+                curr[sum]=take+notTake;
             }
+            prev.swap(curr);
         }
-        return dp[n-1][target];
+        return prev[target];
         
     }
 
     int findTargetSumWays(vector<int>& nums, int target) {
+        //same code as dp 17
         return countPartitions(nums,target);
     }
 };
