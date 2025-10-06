@@ -29,22 +29,40 @@ public:
 
 
         //tabulation
-        vector<vector<int>> dp(n+1,vector<int>(amount+1,INT_MAX-1));
-        for(int i=0;i<=n;++i){
-            dp[i][0]=0;// if 
-        }
+        // vector<vector<int>> dp(n+1,vector<int>(amount+1,INT_MAX-1));
+        // for(int i=0;i<=n;++i){
+        //     dp[i][0]=0;// if 
+        // }
 
 
+        // for(int i=1;i<=n;++i){
+        //     for(int j=1;j<=amount;++j){
+        //         int notTake=dp[i-1][j];
+        //         int take=INT_MAX-1;
+        //         if(coins[i-1]<=j){
+        //             take=1+dp[i][j-coins[i-1]];
+        //         }
+        //         dp[i][j]=min(take,notTake);
+        //     }
+        // }
+        // return dp[n][amount]==INT_MAX-1?-1:dp[n][amount];
+
+        //space optimization
+        vector<int> curr(amount+1);
+        vector<int> prev(amount+1,INT_MAX-1);
+        prev[0]=0;
         for(int i=1;i<=n;++i){
+            curr[0]=0;
             for(int j=1;j<=amount;++j){
-                int notTake=dp[i-1][j];
+                int notTake=prev[j];
                 int take=INT_MAX-1;
                 if(coins[i-1]<=j){
-                    take=1+dp[i][j-coins[i-1]];
+                    take=1+curr[j-coins[i-1]];
                 }
-                dp[i][j]=min(take,notTake);
+                curr[j]=min(take,notTake);
             }
+            prev.swap(curr);
         }
-        return dp[n][amount]==INT_MAX-1?-1:dp[n][amount];
+        return prev[amount]==INT_MAX-1?-1:prev[amount];
     }
 };
