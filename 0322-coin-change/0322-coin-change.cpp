@@ -93,15 +93,18 @@ public:
 
 
         //space optimization using one array
-        vector<int> dp(amount + 1, INT_MAX - 1);
-        dp[0] = 0;
-
-        for (int i = 0; i < n; ++i) {
-            for (int j = coins[i]; j <= amount; ++j) {
-                dp[j] = min(dp[j], 1 + dp[j - coins[i]]);
+        vector<int> prev(amount+1,INT_MAX-1);
+        prev[0]=0;
+        for(int i=1;i<=n;++i){
+            for(int j=1;j<=amount;++j){
+                int notTake=prev[j];
+                int take=INT_MAX-1;
+                if(coins[i-1]<=j){
+                    take=1+prev[j-coins[i-1]];
+                }
+                prev[j]=min(take,notTake);
             }
         }
-
-        return (dp[amount] == INT_MAX - 1) ? -1 : dp[amount];
+        return prev[amount]==INT_MAX-1?-1:prev[amount];
     }
 };
