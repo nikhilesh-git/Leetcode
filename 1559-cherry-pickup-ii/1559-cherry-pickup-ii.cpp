@@ -99,7 +99,7 @@ public:
                                 if (j1 == j2) value = grid[i][j1];
                                 else value = grid[i][j1] + grid[i][j2];
                                 
-                                if(isValid(i+1,j1+d1,j2+d2,n,m)){
+                                if(j1+d1>=0 && j1+d1<m &&  j2+d2>=0 && j2+d2<m){
                                     value += front[j1+d1][j2+d2]; 
                                 }
                                 else{
@@ -111,7 +111,7 @@ public:
                     curr[j1][j2]=maxi;
                 }
             }
-            front=curr;
+            swap(front,curr);
         }
         return front[0][m-1];
     }
