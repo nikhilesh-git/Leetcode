@@ -17,8 +17,8 @@ public:
         int n=text1.size();
         int m=text2.size();
         //memoization
-        vector<vector<int>> dp(text1.size(),vector<int>(text2.size(),-1));
-        return func(text1.size()-1,text2.size()-1,text1,text2,dp);
+        // vector<vector<int>> dp(text1.size(),vector<int>(text2.size(),-1));
+        // return func(text1.size()-1,text2.size()-1,text1,text2,dp);
 
         //tabulation
         // vector<vector<int>> lcs(text1.size()+1,vector<int>(text2.size()+1,0));
@@ -35,5 +35,23 @@ public:
         //     }
         // }
         // return lcs[n][m];
+
+        //space optimization
+        vector<int> prev(text2.size()+1,0);
+        vector<int> curr(text2.size()+1);
+
+        for(int i=1;i<=text1.size();++i){
+            curr[0]=0;
+            for(int j=1;j<=text2.size();++j){
+                if(text1[i-1]==text2[j-1]){
+                    curr[j]=1+prev[j-1];
+                }
+                else{
+                    curr[j]=max(curr[j-1],prev[j]);
+                }
+            }
+            prev.swap(curr);
+        }
+        return prev[text2.size()];
     }
 };
