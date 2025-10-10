@@ -47,7 +47,7 @@ public:
                     curr[j]=1+prev[j-1];
                 }
                 else{
-                    curr[j]=max(curr[j-1],prev[j]);
+                    curr[j]=max(prev[j],curr[j-1]);
                 }
             }
             prev.swap(curr);
