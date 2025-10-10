@@ -209,6 +209,7 @@ npm run lint-test     Test all code is linted properly
 | [0518-coin-change-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/nikhilesh-git/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1170-shortest-common-supersequence](https://github.com/nikhilesh-git/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nikhilesh-git/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/1559-cherry-pickup-ii) |
@@ -239,6 +240,7 @@ npm run lint-test     Test all code is linted properly
 | [0516-longest-palindromic-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nikhilesh-git/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/nikhilesh-git/Leetcode/tree/master/0812-rotate-string) |
+| [1170-shortest-common-supersequence](https://github.com/nikhilesh-git/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nikhilesh-git/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilesh-git/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
