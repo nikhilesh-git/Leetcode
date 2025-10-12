@@ -2,8 +2,9 @@ class Solution {
 public:
     bool func(int i,int j,string &s, string &p,vector<vector<int>> &dp){
         if(i<0 && j<0) return true;
-        if(j<0) return false;
-        if(i<0) {
+        if(i>=0 && j<0) return false;
+        if(j>=0 && i<0) {
+            //if all chars till j are *'s then return true else false;
             for(int k=0;k<=j;++k){
                 if(p[k]!='*'){
                     return false;
@@ -18,7 +19,7 @@ public:
         }
         else{
             if(p[j]=='*'){
-                return dp[i][j]= func(i-1,j,s,p,dp) || func(i,j-1,s,p,dp) || func(i-1,j-1,s,p,dp);
+                return dp[i][j]= func(i-1,j,s,p,dp) || func(i,j-1,s,p,dp) ;
             }
             else{
                 return dp[i][j]=false;
@@ -27,7 +28,41 @@ public:
     }
     bool isMatch(string s, string p) {
         int n=s.size(),m=p.size();
-        vector<vector<int>> dp(n,vector<int>(m,-1));
-        return func(n-1,m-1,s,p,dp);
+        //memoization
+        // vector<vector<int>> dp(n,vector<int>(m,-1));
+        // return func(n-1,m-1,s,p,dp);
+
+        //tabulation
+        vector<vector<bool>> dp(n+1,vector<bool>(m+1));
+        dp[0][0]=true;
+        for(int i=1;i<=n;++i){
+            dp[i][0]=false;
+        }
+        int flag=0;
+        for(int j=1;j<=m;++j){
+            if(flag==0 && p[j-1]=='*'){
+                dp[0][j]=true;
+            }
+            else{
+                flag=1;
+                dp[0][j]=false;
+            }
+        }
+        for(int i=1;i<=n;++i){
+            for(int j=1;j<=m;++j){
+                if(s[i-1]==p[j-1] || p[j-1]=='?'){
+                    dp[i][j]=dp[i-1][j-1];
+                }
+                else{
+                    if(p[j-1]=='*'){
+                        dp[i][j]=dp[i-1][j] || dp[i][j-1];
+                    }
+                    else{
+                        dp[i][j]=false;
+                    }
+                }
+            }
+        }
+        return dp[n][m];
     }
 };
