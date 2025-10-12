@@ -33,36 +33,70 @@ public:
         // return func(n-1,m-1,s,p,dp);
 
         //tabulation
-        vector<vector<bool>> dp(n+1,vector<bool>(m+1));
-        dp[0][0]=true;
-        for(int i=1;i<=n;++i){
-            dp[i][0]=false;
-        }
+        // vector<vector<bool>> dp(n+1,vector<bool>(m+1));
+        // dp[0][0]=true;
+        // for(int i=1;i<=n;++i){
+        //     dp[i][0]=false;
+        // }
+        // int flag=0;
+        // for(int j=1;j<=m;++j){
+        //     if(flag==0 && p[j-1]=='*'){
+        //         dp[0][j]=true;
+        //     }
+        //     else{
+        //         flag=1;
+        //         dp[0][j]=false;
+        //     }
+        // }
+        // for(int i=1;i<=n;++i){
+        //     for(int j=1;j<=m;++j){
+        //         if(s[i-1]==p[j-1] || p[j-1]=='?'){
+        //             dp[i][j]=dp[i-1][j-1];
+        //         }
+        //         else{
+        //             if(p[j-1]=='*'){
+        //                 dp[i][j]=dp[i-1][j] || dp[i][j-1];
+        //             }
+        //             else{
+        //                 dp[i][j]=false;
+        //             }
+        //         }
+        //     }
+        // }
+        // return dp[n][m];
+
+        //space optimizaion
+        vector<bool> prev(m+1),curr(m+1);
+        prev[0]=true;
+        
         int flag=0;
         for(int j=1;j<=m;++j){
             if(flag==0 && p[j-1]=='*'){
-                dp[0][j]=true;
+                prev[j]=true;
             }
             else{
                 flag=1;
-                dp[0][j]=false;
+                prev[j]=false;
             }
         }
         for(int i=1;i<=n;++i){
+            curr[0]=false;
             for(int j=1;j<=m;++j){
                 if(s[i-1]==p[j-1] || p[j-1]=='?'){
-                    dp[i][j]=dp[i-1][j-1];
+                    curr[j]=prev[j-1];
                 }
                 else{
                     if(p[j-1]=='*'){
-                        dp[i][j]=dp[i-1][j] || dp[i][j-1];
+                        curr[j]=prev[j] || curr[j-1];
                     }
                     else{
-                        dp[i][j]=false;
+                        curr[j]=false;
                     }
                 }
+                
             }
+            prev.swap(curr);
         }
-        return dp[n][m];
+        return prev[m];
     }
 };
