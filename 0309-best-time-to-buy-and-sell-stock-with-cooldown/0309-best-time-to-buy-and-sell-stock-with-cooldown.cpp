@@ -21,10 +21,35 @@ public:
         // return f(0,1,0,prices,dp);
 
         //tabulation
-        vector<vector<vector<int>>> dp(n+1,vector<vector<int>> (2,vector<int>(2)));
+        // vector<vector<vector<int>>> dp(n+1,vector<vector<int>> (2,vector<int>(2)));
+        // for(int buy=0;buy<=1;++buy){
+        //     for(int cooldown=0;cooldown<=1;++cooldown){
+        //         dp[n][buy][cooldown]=0;
+        //     }
+        // }
+
+        // for(int i=n-1;i>=0;--i){
+        //     for(int buy=0;buy<=1;++buy){
+        //         for(int cooldown=0;cooldown<=1;++cooldown){
+        //             if(buy==1 && cooldown==0){
+        //                 dp[i][buy][cooldown]=max(-prices[i]+dp[i+1][0][0],dp[i+1][1][0]);
+        //             }
+        //             else if(buy==1 && cooldown==1){
+        //                 dp[i][buy][cooldown]=dp[i+1][1][0];
+        //             }
+        //             else{
+        //                 dp[i][buy][cooldown]=max(prices[i]+dp[i+1][1][1],dp[i+1][0][0]);
+        //             }
+        //         }
+        //     }
+        // }
+        // return dp[0][1][0];
+
+        //space optimization
+        vector<vector<int>> next(2,vector<int>(2)),curr(2,vector<int>(2));
         for(int buy=0;buy<=1;++buy){
             for(int cooldown=0;cooldown<=1;++cooldown){
-                dp[n][buy][cooldown]=0;
+                next[buy][cooldown]=0;
             }
         }
 
@@ -32,17 +57,18 @@ public:
             for(int buy=0;buy<=1;++buy){
                 for(int cooldown=0;cooldown<=1;++cooldown){
                     if(buy==1 && cooldown==0){
-                        dp[i][buy][cooldown]=max(-prices[i]+dp[i+1][0][0],dp[i+1][1][0]);
+                        curr[buy][cooldown]=max(-prices[i]+next[0][0],next[1][0]);
                     }
                     else if(buy==1 && cooldown==1){
-                        dp[i][buy][cooldown]=dp[i+1][1][0];
+                        curr[buy][cooldown]=next[1][0];
                     }
                     else{
-                        dp[i][buy][cooldown]=max(prices[i]+dp[i+1][1][1],dp[i+1][0][0]);
+                        curr[buy][cooldown]=max(prices[i]+next[1][1],next[0][0]);
                     }
                 }
             }
+            next.swap(curr);
         }
-        return dp[0][1][0];
+        return next[1][0];
     }
 };
