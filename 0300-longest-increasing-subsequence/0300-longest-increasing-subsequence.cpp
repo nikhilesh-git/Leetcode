@@ -14,8 +14,47 @@ public:
     }
     int lengthOfLIS(vector<int>& nums) {
         int n=nums.size();
-        vector<vector<int>> dp(n,vector<int>(n+1,-1));
-        return f(0,-1,nums,dp);
+        //memoizaton
+        // vector<vector<int>> dp(n,vector<int>(n+1,-1));
+        // return f(0,-1,nums,dp);
+
+        //tabulation
+        // vector<vector<int>> dp(n + 1, vector<int>(n + 1, 0));
+        
+        // // Build the table from bottom-up
+        // for (int i = n - 1; i >= 0; i--) {
+        //     for (int prev_ind = i - 1; prev_ind >= -1; prev_ind--) {
+
+        //         int notTake = dp[i + 1][prev_ind + 1];
+
+        //         int take = 0;
+        //         if (prev_ind == -1 || nums[i] > nums[prev_ind]) {
+        //             take = 1 + dp[i + 1][i + 1];
+        //         }
+
+        //         dp[i][prev_ind + 1] = max(take, notTake);
+        //     }
+        // }
+
+        // return dp[0][0];
+        //the above tabulation can be made into space optimization with curr & prev
+        vector<int> front(n + 1, 0),curr(n+1,0);
+        for (int i = n - 1; i >= 0; i--) {
+            for (int prev_ind = i - 1; prev_ind >= -1; prev_ind--) {
+
+                int notTake = front[prev_ind + 1];
+
+                int take = 0;
+                if (prev_ind == -1 || nums[i] > nums[prev_ind]) {
+                    take = 1 + front[i + 1];
+                }
+
+                curr[prev_ind + 1] = max(take, notTake);
+            }
+            front.swap(curr);
+        }
+        return front[0];
+        //another version of dp ,uses only 1 array
         // vector<int> dp(n,1);//dp[i]= LIS ending at index i, initially every element is a LIS so initialized with 1 
         
         
