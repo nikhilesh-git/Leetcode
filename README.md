@@ -110,6 +110,7 @@ npm run lint-test     Test all code is linted properly
 | [0229-majority-element-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilesh-git/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nikhilesh-git/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/nikhilesh-git/Leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -167,6 +168,7 @@ npm run lint-test     Test all code is linted properly
 | [0074-search-a-2d-matrix](https://github.com/nikhilesh-git/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilesh-git/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nikhilesh-git/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nikhilesh-git/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -212,6 +214,7 @@ npm run lint-test     Test all code is linted properly
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nikhilesh-git/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/nikhilesh-git/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nikhilesh-git/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/nikhilesh-git/Leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0410-split-array-largest-sum) |
