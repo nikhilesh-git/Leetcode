@@ -219,6 +219,7 @@ npm run lint-test     Test all code is linted properly
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilesh-git/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nikhilesh-git/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/nikhilesh-git/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -266,6 +267,7 @@ npm run lint-test     Test all code is linted properly
 | [0044-wildcard-matching](https://github.com/nikhilesh-git/Leetcode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/nikhilesh-git/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/nikhilesh-git/Leetcode/tree/master/0125-valid-palindrome) |
+| [0132-palindrome-partitioning-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/nikhilesh-git/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilesh-git/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
