@@ -100,6 +100,7 @@ npm run lint-test     Test all code is linted properly
 | [0059-spiral-matrix-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/nikhilesh-git/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilesh-git/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -151,6 +152,7 @@ npm run lint-test     Test all code is linted properly
 | [0059-spiral-matrix-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/nikhilesh-git/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -215,6 +217,7 @@ npm run lint-test     Test all code is linted properly
 | [0062-unique-paths](https://github.com/nikhilesh-git/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/nikhilesh-git/Leetcode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/nikhilesh-git/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilesh-git/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -320,6 +323,7 @@ npm run lint-test     Test all code is linted properly
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilesh-git/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilesh-git/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -384,4 +388,8 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
