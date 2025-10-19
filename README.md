@@ -126,6 +126,7 @@ npm run lint-test     Test all code is linted properly
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nikhilesh-git/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1121-partition-array-for-maximum-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/nikhilesh-git/Leetcode/tree/master/1129-longest-string-chain) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nikhilesh-git/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1559-cherry-pickup-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/1559-cherry-pickup-ii) |
@@ -236,6 +237,7 @@ npm run lint-test     Test all code is linted properly
 | [0673-number-of-longest-increasing-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilesh-git/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1121-partition-array-for-maximum-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/nikhilesh-git/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/nikhilesh-git/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/1250-longest-common-subsequence) |
