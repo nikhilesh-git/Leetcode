@@ -100,6 +100,7 @@ npm run lint-test     Test all code is linted properly
 | [0059-spiral-matrix-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/nikhilesh-git/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/nikhilesh-git/Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilesh-git/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -187,6 +188,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/nikhilesh-git/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/nikhilesh-git/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilesh-git/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1839-decode-xored-array](https://github.com/nikhilesh-git/Leetcode/tree/master/1839-decode-xored-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nikhilesh-git/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -382,6 +384,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhilesh-git/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nikhilesh-git/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/nikhilesh-git/Leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0494-target-sum) |
 ## Memoization
 |  |
