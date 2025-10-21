@@ -165,6 +165,7 @@ npm run lint-test     Test all code is linted properly
 | [0125-valid-palindrome](https://github.com/nikhilesh-git/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nikhilesh-git/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilesh-git/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilesh-git/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -257,6 +258,7 @@ npm run lint-test     Test all code is linted properly
 | [0061-rotate-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/nikhilesh-git/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilesh-git/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -302,11 +304,13 @@ npm run lint-test     Test all code is linted properly
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nikhilesh-git/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nikhilesh-git/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/nikhilesh-git/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -395,4 +399,8 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0085-maximal-rectangle) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
