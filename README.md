@@ -101,6 +101,7 @@ npm run lint-test     Test all code is linted properly
 | [0064-minimum-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/nikhilesh-git/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/nikhilesh-git/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nikhilesh-git/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilesh-git/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -140,6 +141,7 @@ npm run lint-test     Test all code is linted properly
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nikhilesh-git/Leetcode/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilesh-git/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilesh-git/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
@@ -154,6 +156,7 @@ npm run lint-test     Test all code is linted properly
 | [0059-spiral-matrix-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/nikhilesh-git/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/nikhilesh-git/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
@@ -275,6 +278,7 @@ npm run lint-test     Test all code is linted properly
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhilesh-git/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nikhilesh-git/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/nikhilesh-git/Leetcode/tree/master/0044-wildcard-matching) |
+| [0079-word-search](https://github.com/nikhilesh-git/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/nikhilesh-git/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/nikhilesh-git/Leetcode/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
@@ -386,6 +390,7 @@ npm run lint-test     Test all code is linted properly
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhilesh-git/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nikhilesh-git/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/nikhilesh-git/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nikhilesh-git/Leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/nikhilesh-git/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0494-target-sum) |
 ## Memoization
