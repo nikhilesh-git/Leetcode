@@ -193,6 +193,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0029-divide-two-integers](https://github.com/nikhilesh-git/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/nikhilesh-git/Leetcode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/nikhilesh-git/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilesh-git/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1839-decode-xored-array](https://github.com/nikhilesh-git/Leetcode/tree/master/1839-decode-xored-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nikhilesh-git/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -203,6 +204,7 @@ npm run lint-test     Test all code is linted properly
 | [0050-powx-n](https://github.com/nikhilesh-git/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/nikhilesh-git/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nikhilesh-git/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/nikhilesh-git/Leetcode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/nikhilesh-git/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0856-consecutive-numbers-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/nikhilesh-git/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -213,6 +215,7 @@ npm run lint-test     Test all code is linted properly
 | [0044-wildcard-matching](https://github.com/nikhilesh-git/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/nikhilesh-git/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/nikhilesh-git/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/nikhilesh-git/Leetcode/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
