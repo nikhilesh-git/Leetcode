@@ -196,6 +196,7 @@ npm run lint-test     Test all code is linted properly
 | [0231-power-of-two](https://github.com/nikhilesh-git/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilesh-git/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1839-decode-xored-array](https://github.com/nikhilesh-git/Leetcode/tree/master/1839-decode-xored-array) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/nikhilesh-git/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nikhilesh-git/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Math
 |  |
