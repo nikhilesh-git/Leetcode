@@ -125,6 +125,7 @@ npm run lint-test     Test all code is linted properly
 | [0455-assign-cookies](https://github.com/nikhilesh-git/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nikhilesh-git/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/nikhilesh-git/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilesh-git/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -314,6 +315,7 @@ npm run lint-test     Test all code is linted properly
 | [0205-isomorphic-strings](https://github.com/nikhilesh-git/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilesh-git/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/nikhilesh-git/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1129-longest-string-chain](https://github.com/nikhilesh-git/Leetcode/tree/master/1129-longest-string-chain) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nikhilesh-git/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
@@ -347,6 +349,7 @@ npm run lint-test     Test all code is linted properly
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilesh-git/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilesh-git/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/nikhilesh-git/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhilesh-git/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilesh-git/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -418,6 +421,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/nikhilesh-git/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Merge Sort
 |  |
 | ------- |
