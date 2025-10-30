@@ -126,6 +126,7 @@ npm run lint-test     Test all code is linted properly
 | [0485-max-consecutive-ones](https://github.com/nikhilesh-git/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/nikhilesh-git/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilesh-git/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -350,6 +351,7 @@ npm run lint-test     Test all code is linted properly
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilesh-git/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/nikhilesh-git/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhilesh-git/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilesh-git/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -422,6 +424,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0085-maximal-rectangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/nikhilesh-git/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
