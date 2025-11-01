@@ -142,6 +142,7 @@ npm run lint-test     Test all code is linted properly
 | [1646-kth-missing-positive-number](https://github.com/nikhilesh-git/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nikhilesh-git/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1839-decode-xored-array](https://github.com/nikhilesh-git/Leetcode/tree/master/1839-decode-xored-array) |
+| [2227-sum-of-subarray-ranges](https://github.com/nikhilesh-git/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nikhilesh-git/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Depth-First Search
 |  |
@@ -359,6 +360,7 @@ npm run lint-test     Test all code is linted properly
 | [0943-sum-of-subarray-minimums](https://github.com/nikhilesh-git/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhilesh-git/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilesh-git/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/nikhilesh-git/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Tree
 |  |
 | ------- |
@@ -432,6 +434,7 @@ npm run lint-test     Test all code is linted properly
 | [0496-next-greater-element-i](https://github.com/nikhilesh-git/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/nikhilesh-git/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/nikhilesh-git/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Merge Sort
 |  |
 | ------- |
