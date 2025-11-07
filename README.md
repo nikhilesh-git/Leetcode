@@ -132,6 +132,7 @@ npm run lint-test     Test all code is linted properly
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilesh-git/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/nikhilesh-git/Leetcode/tree/master/0735-asteroid-collision) |
+| [0940-fruit-into-baskets](https://github.com/nikhilesh-git/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/nikhilesh-git/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilesh-git/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -324,6 +325,7 @@ npm run lint-test     Test all code is linted properly
 | [0229-majority-element-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilesh-git/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/nikhilesh-git/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0940-fruit-into-baskets](https://github.com/nikhilesh-git/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1129-longest-string-chain](https://github.com/nikhilesh-git/Leetcode/tree/master/1129-longest-string-chain) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nikhilesh-git/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
@@ -450,6 +452,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilesh-git/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/nikhilesh-git/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilesh-git/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Number Theory
 |  |
