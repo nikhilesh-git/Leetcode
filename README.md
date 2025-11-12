@@ -140,6 +140,7 @@ npm run lint-test     Test all code is linted properly
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nikhilesh-git/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1121-partition-array-for-maximum-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/nikhilesh-git/Leetcode/tree/master/1129-longest-string-chain) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nikhilesh-git/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nikhilesh-git/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1559-cherry-pickup-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1646-kth-missing-positive-number](https://github.com/nikhilesh-git/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -219,6 +220,7 @@ npm run lint-test     Test all code is linted properly
 | [0231-power-of-two](https://github.com/nikhilesh-git/Leetcode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/nikhilesh-git/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0856-consecutive-numbers-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nikhilesh-git/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/nikhilesh-git/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2050-count-good-numbers](https://github.com/nikhilesh-git/Leetcode/tree/master/2050-count-good-numbers) |
 ## Recursion
@@ -331,6 +333,7 @@ npm run lint-test     Test all code is linted properly
 | [0940-fruit-into-baskets](https://github.com/nikhilesh-git/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1129-longest-string-chain](https://github.com/nikhilesh-git/Leetcode/tree/master/1129-longest-string-chain) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nikhilesh-git/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nikhilesh-git/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
@@ -407,6 +410,7 @@ npm run lint-test     Test all code is linted properly
 | [0410-split-array-largest-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilesh-git/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nikhilesh-git/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -461,6 +465,7 @@ npm run lint-test     Test all code is linted properly
 | [0940-fruit-into-baskets](https://github.com/nikhilesh-git/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilesh-git/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nikhilesh-git/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Number Theory
 |  |
 | ------- |
