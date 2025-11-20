@@ -128,6 +128,7 @@ npm run lint-test     Test all code is linted properly
 | [0496-next-greater-element-i](https://github.com/nikhilesh-git/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0518-coin-change-ii) |
+| [0621-task-scheduler](https://github.com/nikhilesh-git/Leetcode/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilesh-git/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
@@ -333,6 +334,7 @@ npm run lint-test     Test all code is linted properly
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilesh-git/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilesh-git/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/nikhilesh-git/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/nikhilesh-git/Leetcode/tree/master/0621-task-scheduler) |
 | [0940-fruit-into-baskets](https://github.com/nikhilesh-git/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nikhilesh-git/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -355,6 +357,7 @@ npm run lint-test     Test all code is linted properly
 | [0368-largest-divisible-subset](https://github.com/nikhilesh-git/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilesh-git/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/nikhilesh-git/Leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/nikhilesh-git/Leetcode/tree/master/0621-task-scheduler) |
 | [1129-longest-string-chain](https://github.com/nikhilesh-git/Leetcode/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nikhilesh-git/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Counting
@@ -363,6 +366,7 @@ npm run lint-test     Test all code is linted properly
 | [0169-majority-element](https://github.com/nikhilesh-git/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilesh-git/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/nikhilesh-git/Leetcode/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nikhilesh-git/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nikhilesh-git/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Stack
@@ -398,6 +402,7 @@ npm run lint-test     Test all code is linted properly
 | [0402-remove-k-digits](https://github.com/nikhilesh-git/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/nikhilesh-git/Leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/nikhilesh-git/Leetcode/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilesh-git/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhilesh-git/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Simulation
@@ -422,6 +427,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilesh-git/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/nikhilesh-git/Leetcode/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
