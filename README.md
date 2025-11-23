@@ -270,6 +270,7 @@ npm run lint-test     Test all code is linted properly
 | [0967-minimum-falling-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/nikhilesh-git/Leetcode/tree/master/1129-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/nikhilesh-git/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nikhilesh-git/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -313,6 +314,7 @@ npm run lint-test     Test all code is linted properly
 | [0812-rotate-string](https://github.com/nikhilesh-git/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhilesh-git/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/nikhilesh-git/Leetcode/tree/master/1129-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/nikhilesh-git/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nikhilesh-git/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
