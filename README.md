@@ -292,6 +292,7 @@ npm run lint-test     Test all code is linted properly
 | [0234-palindrome-linked-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/nikhilesh-git/Leetcode/tree/master/0355-design-twitter) |
 | [0908-middle-of-the-linked-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
@@ -333,6 +334,7 @@ npm run lint-test     Test all code is linted properly
 | [0169-majority-element](https://github.com/nikhilesh-git/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nikhilesh-git/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0229-majority-element-ii) |
+| [0355-design-twitter](https://github.com/nikhilesh-git/Leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilesh-git/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilesh-git/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/nikhilesh-git/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -428,6 +430,7 @@ npm run lint-test     Test all code is linted properly
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/nikhilesh-git/Leetcode/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilesh-git/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/nikhilesh-git/Leetcode/tree/master/0621-task-scheduler) |
 ## Bucket Sort
@@ -488,4 +491,8 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nikhilesh-git/Leetcode/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/nikhilesh-git/Leetcode/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
