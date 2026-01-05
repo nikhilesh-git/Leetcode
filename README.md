@@ -99,6 +99,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0045-jump-game-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nikhilesh-git/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/nikhilesh-git/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/nikhilesh-git/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -364,6 +365,7 @@ npm run lint-test     Test all code is linted properly
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/nikhilesh-git/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nikhilesh-git/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0229-majority-element-ii) |
