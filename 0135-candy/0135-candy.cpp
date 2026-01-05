@@ -7,7 +7,6 @@ public:
             if(ratings[i]==ratings[i-1]){
                 i++;
                 count++;
-                continue;
             }
             int peak=1;
             while(i<n && ratings[i]>ratings[i-1]){
