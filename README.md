@@ -164,10 +164,12 @@ npm run lint-test     Test all code is linted properly
 | [0079-word-search](https://github.com/nikhilesh-git/Leetcode/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilesh-git/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilesh-git/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/nikhilesh-git/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/nikhilesh-git/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/nikhilesh-git/Leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
 ## Matrix
@@ -410,11 +412,13 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilesh-git/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilesh-git/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/nikhilesh-git/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilesh-git/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilesh-git/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/nikhilesh-git/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Greedy
 |  |
 | ------- |
