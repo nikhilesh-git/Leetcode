@@ -162,6 +162,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nikhilesh-git/Leetcode/tree/master/0079-word-search) |
+| [0099-recover-binary-search-tree](https://github.com/nikhilesh-git/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilesh-git/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilesh-git/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhilesh-git/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -416,6 +417,7 @@ npm run lint-test     Test all code is linted properly
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/nikhilesh-git/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilesh-git/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilesh-git/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhilesh-git/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -427,6 +429,7 @@ npm run lint-test     Test all code is linted properly
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/nikhilesh-git/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhilesh-git/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhilesh-git/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhilesh-git/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -541,6 +544,7 @@ npm run lint-test     Test all code is linted properly
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/nikhilesh-git/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/nikhilesh-git/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nikhilesh-git/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
