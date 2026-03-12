@@ -169,6 +169,7 @@ npm run lint-test     Test all code is linted properly
 | [0210-course-schedule-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhilesh-git/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/nikhilesh-git/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilesh-git/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -177,6 +178,7 @@ npm run lint-test     Test all code is linted properly
 | [0210-course-schedule-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/nikhilesh-git/Leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/nikhilesh-git/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilesh-git/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Matrix
 |  |
@@ -553,8 +555,10 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/nikhilesh-git/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/nikhilesh-git/Leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
