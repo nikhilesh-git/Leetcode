@@ -153,6 +153,7 @@ npm run lint-test     Test all code is linted properly
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nikhilesh-git/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nikhilesh-git/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/1559-cherry-pickup-ii) |
+| [1631-path-with-minimum-effort](https://github.com/nikhilesh-git/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/nikhilesh-git/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nikhilesh-git/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1839-decode-xored-array](https://github.com/nikhilesh-git/Leetcode/tree/master/1839-decode-xored-array) |
@@ -171,6 +172,7 @@ npm run lint-test     Test all code is linted properly
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/nikhilesh-git/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilesh-git/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/nikhilesh-git/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -180,6 +182,7 @@ npm run lint-test     Test all code is linted properly
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/nikhilesh-git/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilesh-git/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/nikhilesh-git/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -192,6 +195,7 @@ npm run lint-test     Test all code is linted properly
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/1559-cherry-pickup-ii) |
+| [1631-path-with-minimum-effort](https://github.com/nikhilesh-git/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
 |  |
 | ------- |
@@ -219,6 +223,7 @@ npm run lint-test     Test all code is linted properly
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilesh-git/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nikhilesh-git/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nikhilesh-git/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1631-path-with-minimum-effort](https://github.com/nikhilesh-git/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/nikhilesh-git/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
@@ -483,6 +488,7 @@ npm run lint-test     Test all code is linted properly
 | [0355-design-twitter](https://github.com/nikhilesh-git/Leetcode/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilesh-git/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/nikhilesh-git/Leetcode/tree/master/0621-task-scheduler) |
+| [1631-path-with-minimum-effort](https://github.com/nikhilesh-git/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -561,4 +567,8 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0210-course-schedule-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/nikhilesh-git/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Union-Find
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/nikhilesh-git/Leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
