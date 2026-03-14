@@ -170,6 +170,7 @@ npm run lint-test     Test all code is linted properly
 | [0210-course-schedule-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhilesh-git/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/nikhilesh-git/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nikhilesh-git/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/nikhilesh-git/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilesh-git/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -181,6 +182,7 @@ npm run lint-test     Test all code is linted properly
 | [0210-course-schedule-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/nikhilesh-git/Leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/nikhilesh-git/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nikhilesh-git/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/nikhilesh-git/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilesh-git/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -491,6 +493,7 @@ npm run lint-test     Test all code is linted properly
 | [0355-design-twitter](https://github.com/nikhilesh-git/Leetcode/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilesh-git/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/nikhilesh-git/Leetcode/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/nikhilesh-git/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nikhilesh-git/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilesh-git/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
@@ -565,6 +568,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/nikhilesh-git/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nikhilesh-git/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/nikhilesh-git/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
@@ -579,5 +583,6 @@ npm run lint-test     Test all code is linted properly
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/nikhilesh-git/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nikhilesh-git/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
