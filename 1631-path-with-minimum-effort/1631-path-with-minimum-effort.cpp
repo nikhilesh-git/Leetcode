@@ -18,7 +18,6 @@ public:
             int y=pq.top().second.second;
             int effort=pq.top().first;
             pq.pop();
-            if(effort>minEffort[x][y]) continue;
             if(x==n-1 && y==m-1) return minEffort[x][y];
             for(int i=0;i<4;++i){
                 int newx=x+dx[i];
