@@ -137,6 +137,7 @@ npm run lint-test     Test all code is linted properly
 | [0621-task-scheduler](https://github.com/nikhilesh-git/Leetcode/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhilesh-git/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/nikhilesh-git/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/nikhilesh-git/Leetcode/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/nikhilesh-git/Leetcode/tree/master/0846-hand-of-straights) |
@@ -169,6 +170,7 @@ npm run lint-test     Test all code is linted properly
 | [0199-binary-tree-right-side-view](https://github.com/nikhilesh-git/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhilesh-git/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0721-accounts-merge](https://github.com/nikhilesh-git/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/nikhilesh-git/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nikhilesh-git/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -182,6 +184,7 @@ npm run lint-test     Test all code is linted properly
 | [0199-binary-tree-right-side-view](https://github.com/nikhilesh-git/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/nikhilesh-git/Leetcode/tree/master/0322-coin-change) |
+| [0721-accounts-merge](https://github.com/nikhilesh-git/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/nikhilesh-git/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nikhilesh-git/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -350,6 +353,7 @@ npm run lint-test     Test all code is linted properly
 | [0516-longest-palindromic-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nikhilesh-git/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/nikhilesh-git/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/nikhilesh-git/Leetcode/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/nikhilesh-git/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhilesh-git/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/nikhilesh-git/Leetcode/tree/master/1129-longest-string-chain) |
@@ -377,6 +381,7 @@ npm run lint-test     Test all code is linted properly
 | [0451-sort-characters-by-frequency](https://github.com/nikhilesh-git/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/nikhilesh-git/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/nikhilesh-git/Leetcode/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/nikhilesh-git/Leetcode/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/nikhilesh-git/Leetcode/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilesh-git/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/nikhilesh-git/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -404,6 +409,7 @@ npm run lint-test     Test all code is linted properly
 | [0451-sort-characters-by-frequency](https://github.com/nikhilesh-git/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/nikhilesh-git/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/nikhilesh-git/Leetcode/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/nikhilesh-git/Leetcode/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/nikhilesh-git/Leetcode/tree/master/0846-hand-of-straights) |
 | [1129-longest-string-chain](https://github.com/nikhilesh-git/Leetcode/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nikhilesh-git/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -587,6 +593,7 @@ npm run lint-test     Test all code is linted properly
 ## Union-Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/nikhilesh-git/Leetcode/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nikhilesh-git/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilesh-git/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
