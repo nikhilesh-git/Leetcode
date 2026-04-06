@@ -140,6 +140,7 @@ npm run lint-test     Test all code is linted properly
 | [0721-accounts-merge](https://github.com/nikhilesh-git/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/nikhilesh-git/Leetcode/tree/master/0735-asteroid-collision) |
+| [0827-making-a-large-island](https://github.com/nikhilesh-git/Leetcode/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/nikhilesh-git/Leetcode/tree/master/0846-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/nikhilesh-git/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/nikhilesh-git/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -175,6 +176,7 @@ npm run lint-test     Test all code is linted properly
 | [0743-network-delay-time](https://github.com/nikhilesh-git/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nikhilesh-git/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/nikhilesh-git/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/nikhilesh-git/Leetcode/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilesh-git/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nikhilesh-git/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilesh-git/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -189,6 +191,7 @@ npm run lint-test     Test all code is linted properly
 | [0743-network-delay-time](https://github.com/nikhilesh-git/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nikhilesh-git/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/nikhilesh-git/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/nikhilesh-git/Leetcode/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilesh-git/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nikhilesh-git/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilesh-git/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -202,6 +205,7 @@ npm run lint-test     Test all code is linted properly
 | [0085-maximal-rectangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/nikhilesh-git/Leetcode/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/nikhilesh-git/Leetcode/tree/master/0827-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilesh-git/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -594,6 +598,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/nikhilesh-git/Leetcode/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/nikhilesh-git/Leetcode/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nikhilesh-git/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilesh-git/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
