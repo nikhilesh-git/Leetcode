@@ -97,6 +97,7 @@ npm run lint-test     Test all code is linted properly
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nikhilesh-git/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/nikhilesh-git/Leetcode/tree/master/0056-merge-intervals) |
@@ -218,6 +219,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhilesh-git/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/nikhilesh-git/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nikhilesh-git/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -411,6 +413,7 @@ npm run lint-test     Test all code is linted properly
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/nikhilesh-git/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nikhilesh-git/Leetcode/tree/master/0169-majority-element) |
