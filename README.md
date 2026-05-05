@@ -107,6 +107,7 @@ npm run lint-test     Test all code is linted properly
 | [0078-subsets](https://github.com/nikhilesh-git/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nikhilesh-git/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilesh-git/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -290,6 +291,7 @@ npm run lint-test     Test all code is linted properly
 | [0070-climbing-stairs](https://github.com/nikhilesh-git/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/nikhilesh-git/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nikhilesh-git/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilesh-git/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
