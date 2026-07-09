@@ -150,6 +150,7 @@ npm run lint-test     Test all code is linted properly
 | [0943-sum-of-subarray-minimums](https://github.com/nikhilesh-git/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/nikhilesh-git/Leetcode/tree/master/0994-rotting-oranges) |
 | [1034-subarrays-with-k-different-integers](https://github.com/nikhilesh-git/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/nikhilesh-git/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nikhilesh-git/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -199,6 +200,7 @@ npm run lint-test     Test all code is linted properly
 | [0802-find-eventual-safe-states](https://github.com/nikhilesh-git/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/nikhilesh-git/Leetcode/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nikhilesh-git/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/nikhilesh-git/Leetcode/tree/master/0994-rotting-oranges) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nikhilesh-git/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilesh-git/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
@@ -214,6 +216,7 @@ npm run lint-test     Test all code is linted properly
 | [0778-swim-in-rising-water](https://github.com/nikhilesh-git/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/nikhilesh-git/Leetcode/tree/master/0827-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/nikhilesh-git/Leetcode/tree/master/0994-rotting-oranges) |
 | [1559-cherry-pickup-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/nikhilesh-git/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
