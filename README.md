@@ -123,6 +123,7 @@ npm run lint-test     Test all code is linted properly
 | [0216-combination-sum-iii](https://github.com/nikhilesh-git/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/nikhilesh-git/Leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilesh-git/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nikhilesh-git/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -426,6 +427,7 @@ npm run lint-test     Test all code is linted properly
 | [0148-sort-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nikhilesh-git/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/nikhilesh-git/Leetcode/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/nikhilesh-git/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/nikhilesh-git/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilesh-git/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -628,4 +630,8 @@ npm run lint-test     Test all code is linted properly
 | [0787-cheapest-flights-within-k-stops](https://github.com/nikhilesh-git/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nikhilesh-git/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nikhilesh-git/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/nikhilesh-git/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
