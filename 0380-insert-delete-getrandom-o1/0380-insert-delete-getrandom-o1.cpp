@@ -2,6 +2,7 @@ class RandomizedSet {
 public:
     vector<int> arr;
     unordered_map<int,int> index;
+    mt19937 gen{random_device{}()};
     RandomizedSet() {
         
     }
@@ -27,11 +28,7 @@ public:
     }
     
     int getRandom() {
-        random_device rd;
-        mt19937 gen(rd());  
-
         uniform_int_distribution<int> dist(0, arr.size() - 1);
-
         return arr[dist(gen)];
     }
 };
