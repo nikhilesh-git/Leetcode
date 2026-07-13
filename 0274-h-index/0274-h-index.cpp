@@ -13,19 +13,40 @@ public:
         return false;
     }
     int hIndex(vector<int>& citations) {
-        int low=1;
-        int high=citations.size();
-        int mid,ans=0;
-        while(low<=high){
-            mid=(high+low)/2;
-            if(isPossible(mid,citations)){
-                ans=mid;
-                low=mid+1;
+        // int low=1;
+        // int high=citations.size();
+        // int mid,ans=0;
+        // while(low<=high){
+        //     mid=(high+low)/2;
+        //     if(isPossible(mid,citations)){
+        //         ans=mid;
+        //         low=mid+1;
+        //     }
+        //     else{
+        //         high=mid-1;
+        //     }
+        // }
+        // return ans;
+        //TC:O(NlogN), SC:O(1)
+
+        int n=citations.size();
+        vector<int> bucket(n+1,0);
+        for(int i=0;i<n;++i){
+            if(citations[i]>n){
+                bucket[n]++;
             }
             else{
-                high=mid-1;
+                bucket[citations[i]]++;
+            }
+            
+        }
+        int papers=0;
+        for(int i=n;i>=0;--i){
+            papers+=bucket[i];
+            if(papers>=i){
+                return i;
             }
         }
-        return ans;
+        return 0;
     }
 };
