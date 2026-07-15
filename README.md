@@ -364,6 +364,7 @@ npm run lint-test     Test all code is linted properly
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilesh-git/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nikhilesh-git/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/nikhilesh-git/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhilesh-git/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nikhilesh-git/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/nikhilesh-git/Leetcode/tree/master/0044-wildcard-matching) |
