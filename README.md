@@ -238,6 +238,7 @@ npm run lint-test     Test all code is linted properly
 | [0189-rotate-array](https://github.com/nikhilesh-git/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilesh-git/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/nikhilesh-git/Leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/nikhilesh-git/Leetcode/tree/master/1129-longest-string-chain) |
@@ -318,6 +319,7 @@ npm run lint-test     Test all code is linted properly
 | [0312-burst-balloons](https://github.com/nikhilesh-git/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/nikhilesh-git/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/nikhilesh-git/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nikhilesh-git/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -373,6 +375,7 @@ npm run lint-test     Test all code is linted properly
 | [0125-valid-palindrome](https://github.com/nikhilesh-git/Leetcode/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/nikhilesh-git/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0392-is-subsequence](https://github.com/nikhilesh-git/Leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/nikhilesh-git/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilesh-git/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilesh-git/Leetcode/tree/master/0451-sort-characters-by-frequency) |
