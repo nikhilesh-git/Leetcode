@@ -97,6 +97,7 @@ npm run lint-test     Test all code is linted properly
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nikhilesh-git/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nikhilesh-git/Leetcode/tree/master/0055-jump-game) |
@@ -228,6 +229,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhilesh-git/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/nikhilesh-git/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nikhilesh-git/Leetcode/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/nikhilesh-git/Leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -500,6 +502,7 @@ npm run lint-test     Test all code is linted properly
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nikhilesh-git/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/nikhilesh-git/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/nikhilesh-git/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nikhilesh-git/Leetcode/tree/master/0055-jump-game) |
